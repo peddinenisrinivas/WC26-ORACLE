@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/raw/
+data/processed/wc_matches.csv
+data/processed/international_results.csv
+data/processed/shootouts.csv
+data/processed/world_cups_summary.csv
+data/processed/features.csv
+.DS_Store
+reports/
+*.html
+.streamlit/secrets.toml
